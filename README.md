@@ -10,7 +10,7 @@ An Analysis on Kickstarter campaigns to help Louise plan for the success of her 
 ### **Data Source:**  
 Kickstarter data for Theater and Theater/Play categories, mostly from Q4 2010 to Q1 2017.
 ### **Main Findings:**
-1. Fundraising campaigns for plays have greater than 50% success chance if the goal amount less than $15000.  Although there were 67% success rate cases for $35000-$45000 goal range, there were only 9 campaigns at that goal range in the data; we do not have enough information to draw meaning insights for those higher goal amount.
+1. Fundraising campaigns for plays have greater than 50% success chance if the goal amount is less than $15000.  Although there were 67% success rate cases for $35000-$45000 goal range, there were only 9 campaigns at that goal range in the data; we do not have enough information to draw meaning insights for those higher goal amount.
 2. For play projects with goal amount <$15000, the success chance increase to >70% if the goal amount is less than $5000, which is half of Louise proposed goal.   Louise needs to weigh her options whether to keep the current proposed goal or lower her goal to increase her chances of success in fundraising.
 ![Goals vs Outcomes](GoalOutcome_Challenge.png)
 3. In Theater fundraising campaigns, May is the peak project launch month in the data, with approximately 67% success rate.  Overall, May through July have more of theatre projects launches with higher success outcomes.  However, this also means more competitions for funds during those months.
