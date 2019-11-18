@@ -16,7 +16,7 @@ Kickstarter data for Theater and Theater/Play categories, mostly from Q4 2010 to
 3. In Theater fundraising campaigns, May is the peak project launch month in the data, with approximately 67% success rate.  Overall, May through July have more of theatre projects launches with higher success outcomes.  However, this also means more competitions for funds during those months.
 4. At the end of year, particularly in December, is not a good time to launch a fundraising project because success-failure rate is almost 50-50, and less projects are launched in December.
 ![Campaign Outcomes and Launch Month](TheaterOutcomeLaunchDate_Challenge.png)
-### **Limitations and Futher Analysis**
+### **Limitations and Further Analysis**
 1. The analysis required for the challenge does not address a key question relating to the length of campaigns and outcomes.  To perform such analysis, we need to first create a campaign length variable by subtracting end date to launch date, then graph it against outcome chances.
 ![Alternative - Campaign Lenghs and Outcomes](Alternative_DaysOutcome.png)
 2. The Kickstarter data only has Category and Subcategory.  Different genres of play might play a role in the outcomes but currently we cannot drill down to that level of insight.
