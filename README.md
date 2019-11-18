@@ -17,7 +17,7 @@ Kickstarter data for Theater and Theater/Play categories, mostly from Q4 2010 to
 4. At the end of year, particularly in December, is not a good time to launch a fundraising project because success-failure rate is almost 50-50, and less projects are launched in December.
 ![Campaign Outcomes and Launch Month](TheaterOutcomeLaunchDate_Challenge.png)
 ### **Limitations and Further Analysis**
-1. The analysis required for the challenge does not address a key question relating to the length of campaigns and outcomes.  To perform such analysis, we need to first create a campaign length variable by subtracting end date to launch date, then graph it against outcome chances.
+1. The analysis required for the challenge does not address a key question relating to the length of campaigns and outcomes.  To perform such analysis, we need to first create a campaign length variable by subtracting end date to launch date, then graph it against outcome chances. As the graph indicates below, campaigns with less than 30 days tend to be more successful.
 ![Alternative - Campaign Lenghs and Outcomes](Alternative_DaysOutcome.png)
 2. The Kickstarter data only has Category and Subcategory.  Different genres of play might play a role in the outcomes but currently we cannot drill down to that level of insight.
 3. The Kickstarter data only capture geographic information at the Country level.  There might be geographical factors influencing people's interest in supporting Theater-related projects.  This might be important to Louise to target her potential supporters.
